@@ -1,0 +1,66 @@
+[{
+    "nombre": "Julia",
+    "dni": 28752641,
+    "tiene_Curso": true,
+    "domicilio": {
+        "calle": "Tucuman",
+        "numero":133,
+        "localidad": "Pilar"
+    }
+ }, 
+ 
+ {
+    "nombre": "Andres",
+    "dni":32555122,
+    "tiene_Curso":true,
+    "domicilio":{
+        "calle": "Garibaldi",
+        "localidad": "San Miguel",
+        "numero": 2344
+    }
+}, 
+ 
+ {
+    "nombre": "Patricio",
+    "dni": 29455872,
+    "tiene_Curso":false,
+    "domicilio":{
+        "calle": "Arregui",
+        "localidad": "Jose C Paz",
+        "numero": 3231
+    }
+ }, 
+ 
+ {
+    "nombre": "Ema",
+    "dni": 40255877,
+    "tiene_Curso":true,
+    "domicilio":{
+        "calle": "Chacabuco",
+        "localidad": "Pilar",
+        "numero": 4877
+    }
+ },
+ 
+ {
+    "nombre": "Milagros",
+    "dni":  35505788,
+    "tiene_Curso": false,
+    "domicilio":{
+        "calle": "Presidente Peron",
+        "localidad": "Jose C Paz",
+        "numero": 5677
+    }
+ },
+ 
+ {
+    "nombre": "Eduardo",
+    "dni": 34120820,
+    "tiene_Curso":true,
+    "domicilio":{
+        "calle": "San Martin",
+        "localidad":"San Miguel",
+        "numero":489
+    }
+ }
+]
