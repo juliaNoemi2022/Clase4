@@ -1,0 +1,17 @@
+[
+    {
+        "id": 209,
+        "sede": "UNPAZ",
+        "esLaboratorio": true
+    },
+    {
+        "id": 211,
+        "sede":"UNPAZ",
+        "esLaboratorio":true
+    },
+    {
+        "id": 109,
+        "sede": "UNPAZ",
+        "esLaboratorio": false
+    }
+]
